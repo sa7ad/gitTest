@@ -18,10 +18,4 @@ Feel free to explore the project, review the commits, and examine the issues and
 
 While this repository primarily serves as a personal testing ground, contributions and feedback are always welcome. If you have insights, suggestions, or improvements related to GitHub usage, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Explore the nuances of GitHub with my testing repository. Whether you're a beginner or an experienced user, this project provides insights into version control and collaborative workflows. Happy testing!
